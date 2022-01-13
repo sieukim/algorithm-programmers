@@ -31,5 +31,10 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex05.js">✔️</a></td>
             <td>스택</td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/86051">[프로그래머스] 없는 숫자 더하기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex06.js">✔️</a></td>
+            <td>단순 구현</td>
+        </tr>
     </table>
 </div>
