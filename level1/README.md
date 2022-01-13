@@ -1,9 +1,9 @@
-### Programmers 코딩테스트 연습 Level 1
+## Programmers 코딩테스트 연습 Level 1
 <div align="center">
     <table>
         <tr>
             <td>제목</td>
-            <td>문제</td>
+            <td>풀이</td>
             <td>분류</td>
         </tr>
         <tr>
@@ -50,6 +50,11 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12977">[프로그래머스] 소수 만들기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex09.js">✔️</a></td>
             <td>단순 구현</td>
+        </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42576">[프로그래머스] 완주하지 못한 선수</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex10.js">✔️</a></td>
+            <td>해시</td>
         </tr>
     </table>
 </div>
