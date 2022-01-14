@@ -159,5 +159,9 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12912">[프로그래머스] 두 정수 사이의 합</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex38.js">✔️</a></td>
         </tr>
+       <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12910">[프로그래머스] 나누어 떨어지는 숫자 배열</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex39.js">✔️</a></td>
+        </tr>
     </table>
 </div>
