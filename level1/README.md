@@ -142,5 +142,9 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12901">[프로그래머스] 2016년</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex34.js">✔️</a></td>
         </tr>
+       <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12906">[프로그래머스] 같은 숫자는 싫어</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex35.js">✔️</a></td>
+        </tr>
     </table>
 </div>
