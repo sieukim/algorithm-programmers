@@ -71,5 +71,10 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex13.js">✔️</a></td>
             <td>탐욕법</td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/1845">[프로그래머스] 폰켓몬</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex14.js">✔️</a></td>
+            <td>단순 구현</td>
+        </tr>
     </table>
 </div>
