@@ -78,8 +78,13 @@
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42889">[카카오] 실패율</a></td>
-            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex14.js">✔️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex15.js">✔️</a></td>
             <td>정렬</td>
+        </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/77884">[프로그래머스] 약수의 개수와 덧셈</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex16.js">✔️</a></td>
+            <td>단순 구현</td>
         </tr>
     </table>
 </div>
