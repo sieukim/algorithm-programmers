@@ -105,5 +105,9 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12935">[프로그래머스] 제일 작은 수 제거하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex25.js">✔️</a></td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12937">[프로그래머스] 짝수와 홀수</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex26.js">✔️</a></td>
+        </tr>
     </table>
 </div>
