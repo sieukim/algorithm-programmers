@@ -117,5 +117,9 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12943">[프로그래머스] 콜라츠 추측</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex28.js">✔️</a></td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12944">[프로그래머스] 평균 구하기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex29.js">✔️</a></td>
+        </tr>
     </table>
 </div>
