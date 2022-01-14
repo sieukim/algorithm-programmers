@@ -125,5 +125,9 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12947">[프로그래머스] 하샤드 수</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex30.js">✔️</a></td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12948">[프로그래머스] 핸드폰 번호 가리기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex31.js">✔️</a></td>
+        </tr>
     </table>
 </div>
