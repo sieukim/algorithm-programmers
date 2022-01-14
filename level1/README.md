@@ -121,5 +121,9 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12944">[프로그래머스] 평균 구하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex29.js">✔️</a></td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12947">[프로그래머스] 하샤드 수</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex30.js">✔️</a></td>
+        </tr>
     </table>
 </div>
