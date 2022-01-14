@@ -73,5 +73,9 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/68935">[프로그래머스] 3진법 뒤집기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex17.js">✔️</a></td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/68644">[프로그래머스] 두개 뽑아서 더하기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex18.js">✔️</a></td>
+        </tr>
     </table>
 </div>
