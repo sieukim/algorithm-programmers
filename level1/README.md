@@ -85,5 +85,9 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12930">[프로그래머스] 이상한 문자 만들기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex20.js">✔️</a></td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12931">[프로그래머스] 자릿수 더하기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex21.js">✔️</a></td>
+        </tr>
     </table>
 </div>
