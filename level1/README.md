@@ -90,12 +90,16 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex21.js">✔️</a></td>
         </tr>
         <tr>
-            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12932">[프로그래머스] 자연수 뒤집어 배열로 만들기</a></td>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12932">[프로그래머스] 자연수 뒤집어 배열로 만들</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex22.js">✔️</a></td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12933">[프로그래머스] 정수 내림차순으로 배치하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex23.js">✔️</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12934">[프로그래머스] 정수 제곱근 구하기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex24.js">✔️</a></td>
         </tr>
     </table>
 </div>
