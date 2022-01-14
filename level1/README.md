@@ -101,5 +101,9 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12934">[프로그래머스] 정수 제곱근 구하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex24.js">✔️</a></td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12935">[프로그래머스] 제일 작은 수 제거하기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex25.js">✔️</a></td>
+        </tr>
     </table>
 </div>
