@@ -133,5 +133,10 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12950">[프로그래머스] 행렬의 덧셈</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex32.js">✔️</a></td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12954">[프로그래머스] x만큼 간격이 있는 n개의 숫자
+</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex33.js">✔️</a></td>
+        </tr>
     </table>
 </div>
