@@ -4,7 +4,7 @@
         <tr>
             <td>제목</td>
             <td>풀이</td>
-            <td>분류</td>
+            <td>비고</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/77484">[프로그래머스] 로또의 최고 순위와 최저 순위</a></td>
@@ -75,6 +75,11 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/1845">[프로그래머스] 폰켓몬</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex14.js">✔️</a></td>
             <td>단순 구현</td>
+        </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42889">[카카오] 실패율</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex14.js">✔️</a></td>
+            <td>정렬</td>
         </tr>
     </table>
 </div>
