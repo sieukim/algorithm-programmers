@@ -109,5 +109,9 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12937">[프로그래머스] 짝수와 홀수</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex26.js">✔️</a></td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12940">[프로그래머스] 최대공약수와 최소공배수</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex27.js">✔️</a></td>
+        </tr>
     </table>
 </div>
