@@ -66,5 +66,10 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex12.js">✔️</a></td>
             <td>완전 탐색</td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42862">[프로그래머스] 체육복</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex13.js">✔️</a></td>
+            <td>탐욕법</td>
+        </tr>
     </table>
 </div>
