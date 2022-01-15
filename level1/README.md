@@ -173,5 +173,9 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12916">[프로그래머스] 문자열 내 p와 y의 개수</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex42.js">✔️</a></td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12918">[프로그래머스] 문자열 다루기 기본</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex43.js">✔️</a></td>
+        </tr>
     </table>
 </div>
