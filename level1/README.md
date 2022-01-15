@@ -162,8 +162,12 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex39.js">✔️</a></td>
         </tr>
         <tr>
-            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12925">[프로그래머스] 문자열을 정수로 바꾸기</a></td>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12925">[프로그래머스] 문자열을 정수로 바꾸</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex40.js">✔️</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12903">[프로그래머스] 가운데 글자 가져오기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex41.js">✔️</a></td>
         </tr>
     </table>
 </div>
