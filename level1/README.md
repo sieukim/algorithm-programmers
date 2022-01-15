@@ -197,5 +197,9 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/17682">[카카오] 다트 게임</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex48.js">✔️</a></td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/17681">[카카오] 비밀 지도</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex49.js">✔️</a></td>
+        </tr>
     </table>
 </div>
