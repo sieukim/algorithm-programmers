@@ -181,5 +181,9 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12917">[프로그래머스] 문자열 내림차순으로 배치하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex44.js">✔️</a></td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12915">[프로그래머스] 문자열 내 마음대로 정렬하기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex45.js">✔️</a></td>
+        </tr>
     </table>
 </div>
