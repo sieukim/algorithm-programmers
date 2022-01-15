@@ -201,5 +201,9 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/17681">[카카오] 비밀 지도</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex49.js">✔️</a></td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/82612">[프로그래머스] 부족한 금액 계산하기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex50.js">✔️</a></td>
+        </tr>
     </table>
 </div>
