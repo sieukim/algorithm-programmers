@@ -185,5 +185,9 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12915">[프로그래머스] 문자열 내 마음대로 정렬하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex45.js">✔️</a></td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12928">[프로그래머스] 약수의 합</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex46.js">✔️</a></td>
+        </tr>
     </table>
 </div>
