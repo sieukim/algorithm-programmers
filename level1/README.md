@@ -90,7 +90,7 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex21.js">✔️</a></td>
         </tr>
         <tr>
-            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12932">[프로그래머스] 자연수 뒤집어 배열로 만들</a></td>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12932">[프로그래머스] 자연수 뒤집어 배열로 만들기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex22.js">✔️</a></td>
         </tr>
         <tr>
@@ -134,34 +134,36 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex32.js">✔️</a></td>
         </tr>
         <tr>
-            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12954">[프로그래머스] x만큼 간격이 있는 n개의 숫자
-</a></td>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12954">[프로그래머스] x만큼 간격이 있는 n개의 숫자</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex33.js">✔️</a></td>
         </tr>
-       <tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12901">[프로그래머스] 2016년</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex34.js">✔️</a></td>
         </tr>
-       <tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12906">[프로그래머스] 같은 숫자는 싫어</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex35.js">✔️</a></td>
         </tr>
-       <tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/87389">[프로그래머스] 나머지가 1이 되는 수 찾기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex36.js">✔️</a></td>
         </tr>
-       <tr>
-            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12922">[프로그래머스] 수박수박수박수박수박수?
-</a></td>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12922">[프로그래머스] 수박수박수박수박수박수?</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex37.js">✔️</a></td>
         </tr>
-       <tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12912">[프로그래머스] 두 정수 사이의 합</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex38.js">✔️</a></td>
         </tr>
-       <tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12910">[프로그래머스] 나누어 떨어지는 숫자 배열</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex39.js">✔️</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12925">[프로그래머스] 문자열을 정수로 바꾸기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex40.js">✔️</a></td>
         </tr>
     </table>
 </div>
