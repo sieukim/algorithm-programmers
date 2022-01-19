@@ -12,6 +12,11 @@
             <td>문자열</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12941">최솟값 만들기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex05.js">✔️</a></td>
+            <td>연습문제</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12945">피보나치 수</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex04.js">✔️</a></td>
             <td>연습문제</td>
