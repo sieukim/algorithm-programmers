@@ -7,6 +7,11 @@
             <td>분류</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/17680">캐시</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex10.js">✔️</a></td>
+            <td>카카오 2018 채용 1차</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12951">JadenCase 문자열 만들기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex02.js">✔️</a></td>
             <td>문자열</td>
