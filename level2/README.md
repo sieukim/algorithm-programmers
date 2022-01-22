@@ -22,6 +22,11 @@
             <td>카카오 2018 채용 1차</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/17686">파일명 정렬</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex17.js">✔️</a></td>
+            <td>카카오 2018 채용 3차</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/70129">이진 변환 반복하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex16.js">✔️</a></td>
             <td>월간 코드 챌린지1</td>
