@@ -12,14 +12,19 @@
             <td>카카오 2018 채용 1차</td>
         </tr>
         <tr>
-            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12951">JadenCase 문자열 만들기</a></td>
-            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex02.js">✔️</a></td>
-            <td>문자열</td>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42578">위장</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex11.js">✔️</a></td>
+            <td>해시</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12909">올바른 괄호</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex09.js">✔️</a></td>
             <td>스택</td>
+        </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12951">JadenCase 문자열 만들기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex02.js">✔️</a></td>
+            <td>문자열</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12941">최솟값 만들기</a></td>
