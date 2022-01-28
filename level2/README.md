@@ -67,6 +67,11 @@
             <td>해시</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42747">H-Index</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex22.js">✔️</a></td>
+            <td>정렬</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12909">올바른 괄호</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex09.js">✔️</a></td>
             <td>스택</td>
