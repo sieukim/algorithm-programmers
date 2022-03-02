@@ -17,6 +17,11 @@
             <td>SUM, MAX, MIN</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59040">고양이와 개는 몇 마리 있을까</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/group_by/ex01.sql">✔️</a></td>
+            <td>GROUP BY</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59039">이름이 없는 동물의 아이디</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/is_null/ex01.sql">✔️</a></td>
             <td>IS NULL</td>
