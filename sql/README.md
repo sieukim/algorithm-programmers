@@ -26,5 +26,10 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/join/ex01.sql">✔️</a></td>
             <td>JOIN</td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59046">루시와 엘라 찾기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/string_date/ex01.sql">✔️</a></td>
+            <td>String, Date</td>
+        </tr>
     </table>
 </div>
