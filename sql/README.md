@@ -21,5 +21,10 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/is_null/ex01.sql">✔️</a></td>
             <td>IS NULL</td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59042">없어진 기록 찾기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/join/ex01.sql">✔️</a></td>
+            <td>JOIN</td>
+        </tr>
     </table>
 </div>
