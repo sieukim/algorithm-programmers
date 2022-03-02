@@ -10,6 +10,11 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59034">모든 레코드 조회하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/select/ex01.sql">✔️</a></td>
             <td>SELECT</td>
+        </tr>        
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59415">최댓값 구하기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/sum_max_min/ex01.sql">✔️</a></td>
+            <td>SELECT</td>
         </tr>
     </table>
 </div>
