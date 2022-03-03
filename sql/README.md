@@ -106,5 +106,10 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/string_date/ex02.sql">📎</a></td>
             <td>String, Date</td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59409">중성화 여부 파악하기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/string_date/ex03.sql">📎</a></td>
+            <td>String, Date</td>
+        </tr>
     </table>
 </div>
