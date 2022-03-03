@@ -116,5 +116,10 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/string_date/ex04.sql">📎</a></td>
             <td>String, Date</td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59414">DATETIME에서 DATE로 형 변환</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/string_date/ex05.sql">📎</a></td>
+            <td>String, Date</td>
+        </tr>
     </table>
 </div>
