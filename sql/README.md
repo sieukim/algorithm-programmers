@@ -17,6 +17,11 @@
             <td>SELECT</td>
         </tr>  
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59036">아픈 동물 찾기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/select/ex03.sql">✔️</a></td>
+            <td>SELECT</td>
+        </tr>  
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59415">최댓값 구하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/sum_max_min/ex01.sql">✔️</a></td>
             <td>SUM, MAX, MIN</td>
