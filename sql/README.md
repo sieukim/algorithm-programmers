@@ -95,6 +95,11 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59042">없어진 기록 찾기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/join/ex01.sql">📎</a></td>
             <td>JOIN</td>
+        </tr>        
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59043">있었는데요 없었습니다</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/join/ex02.sql">📎</a></td>
+            <td>JOIN</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59046">루시와 엘라 찾기</a></td>
