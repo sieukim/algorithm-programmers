@@ -52,6 +52,11 @@
             <td>SUM, MAX, MIN</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59406">동물 수 구하기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/sum_max_min/ex03.sql">✔️</a></td>
+            <td>SUM, MAX, MIN</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59040">고양이와 개는 몇 마리 있을까</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/sql/group_by/ex01.sql">✔️</a></td>
             <td>GROUP BY</td>
