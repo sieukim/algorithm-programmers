@@ -67,6 +67,11 @@
             <td>2017 팁스타운</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex29.js">✔️</a></td>
+            <td>깊이/너비 우선 탐색</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42842">카펫</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex18.js">✔️</a></td>
             <td>완전탐색</td>
