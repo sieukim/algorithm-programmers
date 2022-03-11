@@ -72,6 +72,11 @@
             <td>Summer/Winter Coding (~2018)</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12981">영어 끝말잇기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex32.js">✔️</a></td>
+            <td>Summer/Winter Coding (~2018)</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12973">짝지어 제거하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex15.js">✔️</a></td>
             <td>2017 팁스타운</td>
