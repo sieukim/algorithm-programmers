@@ -122,6 +122,11 @@
             <td>정렬</td>
         </tr> 
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42746">가장 큰 수</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex36.js">📎️</a></td>
+            <td>정렬</td>
+        </tr> 
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42586">기능개발</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex26.js">📎️️</a></td>
             <td>스택/큐</td>
