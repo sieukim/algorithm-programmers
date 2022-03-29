@@ -27,6 +27,11 @@
             <td>카카오 2021 인턴십</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/60058">괄호 변환</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex46.js">📎️️</a></td>
+            <td>카카오 2020 채용</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/60057">문자열 압축</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex12.js">📎️️</a></td>
             <td>카카오 2020 채용</td>
