@@ -213,7 +213,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12934">정수 제곱근 구하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex24.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex24.py">📎️</a></td>
             <td>단순 구현</td>
         </tr>
         <tr>
