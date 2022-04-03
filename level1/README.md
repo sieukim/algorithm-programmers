@@ -219,7 +219,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12935">제일 작은 수 제거하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex25.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex25.py">📎️</a></td>
             <td>단순 구현</td>
         </tr>
         <tr>
