@@ -177,7 +177,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12903">가운데 글자 가져오기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex41.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex41.py">📎️</a></td>
             <td>문자열</td>
         </tr>
         <tr>
