@@ -183,7 +183,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12916">문자열 내 p와 y의 개수</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex42.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex42.py">📎️</a></td>
             <td>문자열</td>
         </tr>
         <tr>
