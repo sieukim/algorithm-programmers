@@ -201,7 +201,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12915">문자열 내 마음대로 정렬하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex45.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex45.py">📎️</a></td>
             <td>문자열</td>
         </tr>
         <tr>
