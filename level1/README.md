@@ -195,7 +195,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12917">문자열 내림차순으로 배치하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex44.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex44.py">📎️</a></td>
             <td>문자열</td>
         </tr>
         <tr>
