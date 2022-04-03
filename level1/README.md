@@ -165,7 +165,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12931">자릿수 더하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex21.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex21.py">📎️</a></td>
             <td>문자열</td>
         </tr>
         <tr>
