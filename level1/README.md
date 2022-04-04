@@ -303,7 +303,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12910">나누어 떨어지는 숫자 배열</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex39.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex39.py">📎️</a></td>
             <td>단순 구현</td>
         </tr>
         <tr>
