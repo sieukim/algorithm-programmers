@@ -81,7 +81,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/77884">약수의 개수와 덧셈</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex16.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex16.py">📎️</a></td>
             <td>월간 코드 챌린지 2</td>
         </tr>
         <tr>
