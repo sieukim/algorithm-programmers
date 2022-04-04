@@ -1,36 +1,17 @@
 function solution(a, b) {
-  function getDay(n) {
-    let day = ''
+  // 요일 맵
+  const dayMap = {
+      0: 'SUN',
+      1: 'MON',
+      2: 'TUE',
+      3: 'WED',
+      4: 'THU',
+      5: 'FRI',
+      6: 'SAT',
+  };
 
-    switch (n) {
-      case 0:
-        day = 'SUN';
-        break;
-      case 1:
-        day = 'MON';
-        break;
-      case 2:
-        day = 'TUE';
-        break;
-      case 3:
-        day = 'WED';
-        break;
-      case 4:
-        day = 'THU';
-        break;
-      case 5:
-        day = 'FRI';
-        break;
-      case 6:
-        day = 'SAT';
-        break;
-    }
-
-    return day;
-  }
-
-  const date = new Date(`2016-${a}-${b}`);
-  const day = getDay(date.getDay());
-
-  return day;
+  // 요일 정보
+  const day = new Date(`2016-${a}-${b}`).getDay();
+  // 요일 정보 매핑
+  return dayMap[day];
 }
