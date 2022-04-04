@@ -87,7 +87,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/68935">3진법 뒤집기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex17.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex17.py">📎️</a></td>
             <td>월간 코드 챌린지 1</td>
         </tr>
         <tr>
