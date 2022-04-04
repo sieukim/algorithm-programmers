@@ -297,7 +297,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12912">두 정수 사이의 합</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex38.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex38.py">📎️</a></td>
             <td>단순 구현</td>
         </tr>
         <tr>
