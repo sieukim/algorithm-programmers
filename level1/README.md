@@ -243,7 +243,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12944">평균 구하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex29.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex29.py">📎️</a></td>
             <td>단순 구현</td>
         </tr>
         <tr>
