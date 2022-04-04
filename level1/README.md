@@ -267,7 +267,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12954">x만큼 간격이 있는 n개의 숫자</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex33.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex33.py">📎️</a></td>
             <td>단순 구현</td>
         </tr>
         <tr>
