@@ -315,7 +315,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12919">서울에서 김서방 찾기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex47.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex47.py">📎️</a></td>
             <td>단순 구현</td>
         </tr>
     </table>
