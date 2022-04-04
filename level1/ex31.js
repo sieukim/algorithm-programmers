@@ -1,11 +1,10 @@
 function solution(phone_number) {
-  // 주어진 전화 번호 -> 배열
-  const phone_number_arr = phone_number.split('');
-  const phone_number_length = phone_number.length;
-
-  for (let i = 0; i < phone_number_length - 4; i++) {
-    phone_number_arr[i] = '*';
-  }
-
-  return phone_number_arr.join('');
+  // 전화번호 길이
+  const n = phone_number.length;
+  // 앞 (n - 4)자리
+  const frontNumber = new Array(n - 4).fill('*').join('');
+  // 뒤 4자리
+  const backNumber = phone_number.slice(n - 4);
+  
+  return frontNumber + backNumber;
 }
