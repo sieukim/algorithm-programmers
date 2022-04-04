@@ -285,7 +285,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/87389">나머지가 1이 되는 수 찾기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex36.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex36.py">📎️</a></td>
             <td>단순 구현</td>
         </tr>
         <tr>
