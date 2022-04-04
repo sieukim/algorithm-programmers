@@ -1,22 +1,29 @@
 function solution(left, right) {
-  let answer = 0;
-
-  // 약수 개수를 구하는 함수
-  function countDivisor(number) {
-    let count = 0;
-
-    for (let i = 1; i <= number; i++) {
-      if (number % i === 0) count++;
-    }
-
-    return count;
+  // 약수 배열 구하는 함수
+  function getDivisor(n) {
+      const divisor = [];
+      
+      for (let i = 1; i <= n; i++) {
+          if (n % i === 0) {
+              divisor.push(i);
+          }
+      }
+      
+      return divisor;
   }
-
+  
+  let answer = 0;
+  
   for (let i = left; i <= right; i++) {
-    const count = countDivisor(i);
-
-    if (count % 2) answer -= i;
-    else answer += i;
+      const divisor = getDivisor(i);
+      // 약수의 개수가 홀수인 경우
+      if (divisor.length % 2) {
+          answer -= i;
+      }
+      // 약수의 개수가 짝수인 경우
+      else {
+          answer += i;
+      }
   }
 
   return answer;
