@@ -69,7 +69,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/86051">없는 숫자 더하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex06.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex06.py">📎️</a></td>
             <td>월간 코드 챌린지 3</td>
         </tr>
         <tr>
