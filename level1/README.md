@@ -105,7 +105,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/82612">부족한 금액 계산하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex50.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex50.py">📎️</a></td>
             <td>위클리 챌린지</td>
         </tr>
         <tr>
