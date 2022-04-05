@@ -147,7 +147,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42840">모의고사</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex12.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex12.py">📎️</a></td>
             <td>완전탐색</td>
         </tr>
         <tr>
