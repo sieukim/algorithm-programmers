@@ -141,7 +141,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12933">정수 내림차순으로 배치하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex23.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex23.py">📎️</a></td>
             <td>정렬</td>
         </tr> 
         <tr>
