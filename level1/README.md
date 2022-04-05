@@ -123,7 +123,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12982">예산</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex52.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex52.py">📎️</a></td>
             <td>Summer/Winter Coding (~2018)</td>
         </tr>
         <tr>
