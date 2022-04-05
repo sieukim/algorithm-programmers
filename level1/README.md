@@ -93,7 +93,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/68644">두개 뽑아서 더하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex18.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex18.py">📎️</a></td>
             <td>월간 코드 챌린지 1</td>
         </tr>
         <tr>
