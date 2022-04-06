@@ -1,39 +1,33 @@
 function solution(n, lost, reserve) {
-  let answer = n - lost.length;
-
-  lost.sort();
-  reserve.sort();
-
-  // 여벌이 있는 학생 중 도난 당한 학생은 제거한다.
-  for (let i = 0; i < reserve.length; i++) {
-    const duplicatedIndex = lost.findIndex((value) => value === reserve[i]);
-
-    if (duplicatedIndex >= 0){
-      lost[duplicatedIndex] = null;
-      reserve[i] = null;
-      answer++;
-    }
+  // 학생 배열 (체육복 수), students[0]은 사용 x
+  const students = new Array(n + 1).fill(1);
+  
+  // 도난
+  for (const student of lost) {
+      students[student]--;
   }
-
-  // 분실 학생의 앞 또는 뒷 번호 학생에게 빌릴 수 있는지를 알아낸다.
-  function isPossible (student) {
-    const reservedIndex = reserve.findIndex((value) => value === student);
-
-    if (reservedIndex >= 0) {
-      answer++;
-      reserve[reservedIndex] = null;
-      return true;
-    }
-
-    return false;
+  
+  // 여분
+  for (const student of reserve) {
+      students[student]++;
   }
-
-  for (let i = 0; i < lost.length; i++) {
-    const lostStudent = lost[i];
-
-    if (isPossible(lostStudent - 1)) continue;
-    if (isPossible(lostStudent + 1)) continue;
+  
+  // 대여
+  for (let i = 1; i <= n; i++) {
+      // 체육복이 없을 때
+      if (students[i] === 0) {
+          // 앞 학생이 여벌을 가진 경우
+          if (students[i - 1] === 2) {
+              students[i - 1] = 1;
+              students[i] = 1;
+          }
+          // 뒷 학생이 여벌을 가진 경우
+          else if (students[i + 1] === 2) {
+              students[i + 1] = 1;
+              students[i] = 1;
+          }
+      }
   }
-
-  return answer;
+  
+  return n - students.filter(student => student === 0).length;
 }
