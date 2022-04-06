@@ -63,7 +63,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/1845">폰켓몬</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex14.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex14.py">📎️</a></td>
             <td>찾아라 프로그래밍 마에스터</td>
         </tr>
         <tr>
