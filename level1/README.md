@@ -153,7 +153,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42862">체육복</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex13.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex13.py">📎️</a></td>
             <td>그리디</td>
         </tr>
         <tr>
