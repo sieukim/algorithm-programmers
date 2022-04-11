@@ -20,15 +20,21 @@
             <td>해시</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42895">N으로 표현</a></td>
+            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex04.py">📎️️</a></td>
+            <td>DP</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/43105">정수 삼각형</a></td>
             <td>채점 서비스 제공 x</td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex03.py">📎️️</a></td>
             <td>DP</td>
         </tr>
         <tr>
-            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42895">N으로 표현</a></td>
-            <td></td>
-            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex04.py">📎️️</a></td>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42898">등굣길</a></td>
+            <td>채점 서비스 제공 x</td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex05.py">📎️️</a></td>
             <td>DP</td>
         </tr>
     </table>
