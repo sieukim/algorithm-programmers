@@ -160,163 +160,169 @@
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12930">이상한 문자 만들기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex20.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex20.py">📎️</a></td>
-            <td>문자열</td>
+            <td>연습 문제</td>
         </tr>   
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12931">자릿수 더하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex21.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex21.py">📎️</a></td>
-            <td>문자열</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12925">문자열을 정수로 바꾸기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex40.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex40.py">📎️</a></td>
-            <td>문자열</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12903">가운데 글자 가져오기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex41.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex41.py">📎️</a></td>
-            <td>문자열</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12916">문자열 내 p와 y의 개수</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex42.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex42.py">📎️</a></td>
-            <td>문자열</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12918">문자열 다루기 기본</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex43.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex43.py">📎️</a></td>
-            <td>문자열</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12917">문자열 내림차순으로 배치하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex44.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex44.py">📎️</a></td>
-            <td>문자열</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12915">문자열 내 마음대로 정렬하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex45.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex45.py">📎️</a></td>
-            <td>문자열</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12932">자연수 뒤집어 배열로 만들기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex22.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex22.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
         </tr>  
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12934">정수 제곱근 구하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex24.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex24.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12935">제일 작은 수 제거하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex25.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex25.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12937">짝수와 홀수</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex26.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex26.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12940">최대공약수와 최소공배수</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex27.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex27.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12943">콜라츠 추측</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex28.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex28.py">📎️</a></td>
-            <td>단순 구현</td>  
+            <td>연습 문제</td>  
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12944">평균 구하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex29.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex29.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12947">하샤드 수</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex30.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex30.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12948">핸드폰 번호 가리기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex31.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex31.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12950">행렬의 덧셈</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex32.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex32.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12954">x만큼 간격이 있는 n개의 숫자</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex33.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex33.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12901">2016년</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex34.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex34.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12906">같은 숫자는 싫어</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex35.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex35.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/87389">나머지가 1이 되는 수 찾기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex36.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex36.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12922">수박수박수박수박수박수?</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex37.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex37.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12912">두 정수 사이의 합</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex38.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex38.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12910">나누어 떨어지는 숫자 배열</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex39.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex39.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12928">약수의 합</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex46.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex46.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12919">서울에서 김서방 찾기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex47.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex47.py">📎️</a></td>
-            <td>단순 구현</td>
+            <td>연습 문제</td>
+        </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12926">시저 암호</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex52.js">📎️</a></td>
+            <td></td>
+            <td>연습 문제</td>
         </tr>
     </table>
 </div>
