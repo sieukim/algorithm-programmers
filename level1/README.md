@@ -320,8 +320,8 @@
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12926">시저 암호</a></td>
-            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex52.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex53.js">📎️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex53.py">📎️</a></td>
             <td>연습 문제</td>
         </tr>
     </table>
