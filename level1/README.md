@@ -57,7 +57,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/77484">로또의 최고 순위와 최저 순위</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex01.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex01.py">📎️</a></td>
             <td>2021 Dev-matching</td>
         </tr>
         <tr>
