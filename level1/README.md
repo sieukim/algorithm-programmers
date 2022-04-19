@@ -22,7 +22,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/81301">숫자 문자열과 영단어</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex03.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex03.js">📎️️</a></td>
             <td>카카오 2021 인턴십</td>
         </tr>
         <tr>
