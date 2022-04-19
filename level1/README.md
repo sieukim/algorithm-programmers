@@ -16,7 +16,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/72410">신규 아이디 추천</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex02.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex02.py">📎️️</a></td>
             <td>카카오 2021 채용</td>
         </tr>
         <tr>
