@@ -34,7 +34,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42889">실패율</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex15.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex15.py">📎️️</a><</td>
             <td>카카오 2019 채용</td>
         </tr>
         <tr>
