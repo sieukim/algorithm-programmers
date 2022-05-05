@@ -16,7 +16,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/92335">k진수에서 소수 개수 구하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex20.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex20.py">📎️️</a></td>
             <td>카카오 2022 채용</td>
         </tr>
         <tr>
