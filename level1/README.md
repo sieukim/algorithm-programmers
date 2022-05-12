@@ -28,7 +28,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/67256">키패드 누르기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex04.js">📎️️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex04.py">📎️️️</a></td>
             <td>카카오 2020 인턴십</td>
         </tr>
         <tr>
