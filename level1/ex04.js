@@ -1,51 +1,72 @@
 function solution(numbers, hand) {
-  let answer = '';
+  // 로그 딕셔너리
+  const logs = {
+      'all': [],
+      'R': [10],
+      'L': [12],
+  };
+  
+  // 손 위치 딕셔너리
+  const hands = {
+      0: undefined, 2: undefined, 
+      5: undefined, 8: undefined,
+      1: 'L', 4: 'L', 7: 'L',
+      3: 'R', 6: 'R', 9: 'R',
+  };
+  
+  // 두 번호 사이 거리를 반환하는 함수
+  const dist = (n1, n2) => {
+      // 두 번호 중 하나가 0인 경우 11로 변경
+      n1 = n1 === 0 ? 11 : n1;
+      n2 = n2 === 0 ? 11 : n2;
+      
+      // 좌표 계산을 위해 1씩 감소
+      n1--;
+      n2--;
+      
+      // n1 좌표
+      const x1 = parseInt(n1 / 3);
+      const y1 = n1 % 3;
+      // n2 좌표
+      const x2 = parseInt(n2 / 3);
+      const y2 = n2 % 3;
 
-  // left -> L, right -> R
-  hand === 'left' ? 'L' : 'R';
-
-  // 손 위치
-  let leftHand = 10;
-  let rightHand = 12;
-
-  // 손 위치 찾는 함수
-  function findHand(number, leftHand, rightHand) {
-    // 손과 숫자가 위치하는 행 찾기
-    const leftHandRow = parseInt(leftHand / 3);
-    const rightHandRow = rightHand % 3 === 0 ? parseInt(rightHand / 3) - 1 : parseInt(rightHand / 3);
-    const numberRow = parseInt(number / 3);
-
-    // 손과 숫자가 위치하는 행 간격 구하기 (만약 가운데 열에 있으면 거리 1씩 차감)
-    const leftHandDistance = leftHand % 3 !== 2 ? Math.abs(numberRow - leftHandRow) : Math.abs(numberRow - leftHandRow) - 1;
-    const rightHandDistance = rightHand % 3 !== 2 ? Math.abs(numberRow - rightHandRow) : Math.abs(numberRow - rightHandRow) - 1;
-
-    // 간격이 같은 경우 주 사용 손 반환
-    if (leftHandDistance === rightHandDistance) return hand === 'left' ? 'L' : 'R';
-
-    // 간격이 다른 경우 더 짧은 위치의 손 반환
-    return leftHandDistance < rightHandDistance ? 'L' : 'R';
+      // 거리 반환
+      return Math.abs(x1 - x2) + Math.abs(y1 - y2);
   }
-
-  numbers.forEach(number => {
-    // 숫자가 0인 경우 11로 취급
-    if (number === 0) number = 11;
-
-    switch(number % 3) {
-      case 0:
-        answer += 'R';
-        rightHand = number;
-        break;
-      case 1:
-        answer += 'L';
-        leftHand = number;
-        break;
-      case 2:
-        const theHand = findHand(number, leftHand, rightHand);
-        answer += theHand;
-        theHand === 'L' ? leftHand = number: rightHand = number;
-        break;
-    }
-  })
-
-  return answer;
+  
+  for (const number of numbers) {
+      // 현재 번호에 해당하는 손
+      let using_hand = hands[number];
+      
+      // 손이 정해지지 않은 경우
+      if (!using_hand) {
+          // 오른손 최근 위치와 현재 번호 사이의 거리
+          const dist_r = dist(logs['R'].slice(-1)[0], number);
+          // 왼손 최근 위치와 현재 번호 사이의 거리
+          const dist_l = dist(logs['L'].slice(-1)[0], number);
+          
+          // 오른손이 가까운 경우
+          if (dist_r < dist_l) {
+              // 오른손 사용
+              using_hand = 'R';
+          } 
+          // 왼손이 가까운 경우
+          else if (dist_r > dist_l) {
+              // 왼손 사용
+              using_hand = 'L';
+          }
+          // 거리가 같은 경우
+          else {
+              using_hand = hand[0].toUpperCase();
+          }
+      }
+      
+      // 로그에 추가
+      logs['all'].push(using_hand);
+      logs[using_hand].push(number);
+  }
+  
+  // 모든 로그를 반환
+  return logs.all.join('');
 }
