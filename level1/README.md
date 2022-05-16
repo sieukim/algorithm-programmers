@@ -40,7 +40,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/64061">크레인 인형뽑기 게임</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex05.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex05.py">📎️</a></td>
             <td>카카오 2019 인턴십</td>
         </tr>
         <tr>
