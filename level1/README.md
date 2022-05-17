@@ -46,7 +46,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/17682">다트 게임</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex48.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level1/ex48.py">📎️</a></td>
             <td>카카오 2018 채용</td>
         </tr>
         <tr>
