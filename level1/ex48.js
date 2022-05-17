@@ -1,80 +1,84 @@
+//  총 라운드 정보 문자열 -> 각 라운드 정보 리스트
+function get_result(totalResult) {
+  // 각 라운드 정보 리스트
+  const result = Array.from({length: 3},
+    () => ({
+      'score': '',
+      'bonus': undefined,
+      'option': undefined,
+    }));
+
+  // 현재 라운드
+  let current = 0;
+
+  // 탐색
+  for (const value of totalResult) {
+    // 점수인 경우
+    if (!isNaN(value)) {
+      // 현재 라운드 보너스 정보가 있는 경우
+      if (result[current]['bonus']) {
+        // 다음 라운드로 이동
+        current += 1;
+      }
+      // 점수 정보에 추가
+      result[current]['score'] += value;
+    }
+    // 보너스인 경우
+    else if (['S', 'D', 'T'].includes(value)) {
+      // 보너스 정보에 추가
+      result[current]['bonus'] = value;
+    }
+    // 옵션인 경우
+    else {
+      // 옵션 정보에 추가
+      result[current]['option'] = value;
+    }
+  }
+
+  return result;
+}
+
 function solution(dartResult) {
-  let answer = 0;
+  // 각 라운드 정보 리스트
+  const result = get_result(dartResult);
 
-  // S: single
-  function single(score) {
-    return Math.pow(score, 1);
-  }
+  // 각 라운드 정보 탐색
+  for (let i = 0; i < 3; i++) {
+    // 현재 라운드 점수, 보너스, 옵션
+    let [score, bonus, option] = Object.values(result[i]);
 
-  // D: double
-  function double(score) {
-    return Math.pow(score, 2);
-  }
-
-  // T: triple
-  function triple(score) {
-    return Math.pow(score, 3);
-  }
-
-  // 점수|보너스|[옵션] 패턴으로 파싱
-  const results = dartResult.match(/([0-9][0]?)(S|D|T)(\*|#)?/g);
-
-  const scores = [];
-
-  for (let i = 0; i < results.length; i++) {
-    const result = results[i].split('');
-
-    let score = 0;
-    let bonus = '';
-    let option = '';
-
-    // score
-    score = result[1] === '0' ? 10 : parseInt(result[0]);
-    // bonus
-    bonus = score === 10 ? result[2] : result[1];
-    // option
-    option = score === 10 ? result[3] : result[2];
-
-    scores.push({
-      score: score,
-      bonus: bonus,
-      option: option,
-      multiple: 1
-    });
-  }
-
-  // bonus와 option 계산
-  for (let i = 0; i < scores.length; i++) {
-    let score = scores[i].score;
-
-    // bonus
-    switch (scores[i].bonus) {
-      case 'S':
-        scores[i].score = single(scores[i].score);
-        break;
-      case 'D':
-        scores[i].score = double(scores[i].score);
-        break;
-      case 'T':
-        scores[i].score = triple(scores[i].score);
-        break;
+    // 싱글 보너스인 경우
+    if (bonus === 'S') {
+      score = parseInt(score);
+    }
+    // 더블 보너스인 경우
+    else if (bonus === 'D') {
+      score = parseInt(score) ** 2;
+    }
+    // 트리플 보너스인 경우
+    else {
+      score = parseInt(score) ** 3;
     }
 
-    // option
-    switch (scores[i].option) {
-      case '*':
-        if (i > 0) scores[i - 1].multiple = scores[i - 1].multiple * 2;
-        scores[i].multiple = scores[i].multiple * 2;
-        break;
-      case '#':
-        scores[i].multiple = scores[i].multiple * -1;
+    // 스타상인 경우
+    if (option === '*') {
+      // 현재 점수 2배
+      score *= 2;
+      // 이전 점수 2배
+      if (i > 0) {
+        result[i - 1]['score'] *= 2;
+      }
     }
+    // 아차상인 경우
+    else if (option === '#') {
+      // 현재 점수 -1배
+      score *= -1;
+    }
+
+    // 현재 라운드 최종 점수 대입
+    result[i]['score'] = score;
   }
 
-  // 총 점수 계산
-  for (let i = 0; i < scores.length; i++) {
-    answer += scores[i].score * scores[i].multiple;
-  }
-
-  return answer;
+  // 총 점수
+  return result[0]['score'] + result[1]['score'] + result[2]['score'];
 }
