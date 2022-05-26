@@ -1,14 +1,10 @@
 function solution(n) {
-  const answer = [];
-
-  for (let i = 0; i <= n; i++) {
-    if (i <= 1) {
-      answer.push(i);
-    } else {
-      // A % D = (B % D) + (C % D) (단, A = B + C)
-      answer[i] = answer[i - 1] % 1234567 + answer[i - 2] % 1234567;
-    }
+  const arr = [0, 1];
+  const mod = 1234567;
+  
+  for (let i = 2; i <= n; i++) {
+      arr[i] = arr[i-1] % mod + arr[i-2] % mod;
   }
-
-  return answer[n] % 1234567;
+  
+  return arr[n] % mod;
 }
