@@ -286,13 +286,13 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12953">N개의 최소 공배수</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex01.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex01.py">📎️️</a></td>
             <td>연습문제</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12939">최댓값과 최솟값</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex06.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex06.py">📎️️</a></td>
             <td>연습문제</td>
         </tr>        
         <tr>
