@@ -226,7 +226,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42587">프린터</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex24.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex24.py">📎️</a></td>
             <td>스택/큐</td>
         </tr>
         <tr>
