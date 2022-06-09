@@ -1,32 +1,31 @@
 function solution(priorities, location) {
-  let count = 0;
-
-  // 모든 우선순위를 { 우선순위, 위치 }의 형태로 매핑
-  const papers = priorities.map((value, index) => ({ priority: value, location: index }));
-
-  while (papers.length > 0) {
-    const paper = papers.shift();
-    // 문서가 인쇄됐는지 판별
-    let printed = true;
-
-    // 더 중요한 문서가 있는지 확인
-
-    for (let i = 0; i < papers.length; i++) {
-      if (paper.priority < papers[i].priority) {
-        papers.push(paper);
-        printed = false;
-        break;
-      }
+    // 요청한 문서의 출력 순서 
+    let answer = 0;
+    
+    // [우선순위, 초기 위치]로 매핑
+    priorities = priorities.map((value, index) => [value, index]);
+    
+    while (priorities.length > 0) {
+        // 맨 앞 문서 꺼내기
+        const priority = priorities.shift();
+        // 남은 문서 중 더 높은 우선순위 문서가 있는지 확인
+        const rest = priorities.filter(value => value[0] > priority[0]);
+        // 더 높은 우선순위가 있는 경우
+        if (rest.length > 0) {
+            // 맨 앞 문서를 맨 뒤에 삽입
+            priorities.push(priority);
+        }
+        else {
+            // 출력
+            answer += 1;
+            
+            // 사용자가 요청한 문서인 경우   
+            if (priority[1] === location) {
+                // 종료
+                break;
+            }
+        }
     }
-
-    // 인쇄 수 카운팅
-    if (printed) count++;
-
-    // 원하는 위치의 문서를 인쇄한 경우
-    if (printed && paper.location === location) {
-      break;
-    }
-  }
-
-  return count;
+    
+    return answer;
 }
