@@ -1,30 +1,23 @@
 function solution(progresses, speeds) {
-  const answer = [];
+    const answer = [];
+    
+    // 필요 작업일 
+    const days = progresses.map((v, i) => Math.ceil((100 - v) / speeds[i]));
 
-  while (progresses.length > 0) {
-    progresses = progresses.map((progress, index) => progress + speeds[index]);
-
-    // 맨 앞 기능이 배포가능한 경우
-    if (progresses[0] >= 100) {
-      progresses.shift();
-      speeds.shift();
-
-      // 추가적으로 배포가능한 기능의 수 카운팅
-      let count = 1;
-
-      while (true) {
-        if (progresses[0] >= 100) {
-          progresses.shift();
-          speeds.shift();
-          count++;
-        } else {
-          break;
+    while (days.length > 0) {
+        // 배포 작업 수 
+        let count = 0;
+        // 맨 앞 작업을 배포 
+        const day = days.shift();
+        count += 1;
+        // 위 작업일보다 같거나 빠른 작업을 배포
+        while (days[0] <= day) {
+            days.shift();
+            count += 1;
         }
-      }
-
-      answer.push(count);
+        // 배포 작업 수 추가
+        answer.push(count);
     }
-  }
-
-  return answer;
+    
+    return answer;
 }
