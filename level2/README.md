@@ -196,7 +196,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42578">위장</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex11.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex11.py">📎️️</a></td>
             <td>해시</td>
         </tr>
         <tr>
@@ -232,7 +232,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12909">올바른 괄호</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex09.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex09.py">📎️️</a></td>
             <td>스택/큐</td>
         </tr>
         <tr>
