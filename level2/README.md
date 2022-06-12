@@ -208,7 +208,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42747">H-Index</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex22.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex22.py">📎️</a></td>
             <td>정렬</td>
         </tr> 
         <tr>
