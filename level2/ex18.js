@@ -1,17 +1,28 @@
 function solution(brown, yellow) {
-  // yellow: width * height 직사각형
-  let width, height;
+  const answer = [];
 
-  for (width = Math.ceil(Math.sqrt(yellow)); width <= yellow; width++) {
-    // 정수가 아닌 width인 경우
-    if (yellow % width > 0) continue;
-    // 정수 width인 경우
-    height = yellow / width;
-
-    // brown: yellow를 둘러싸는 테두리 1줄
-    const border = 2 * (width + height) + 4;
-
-    // 현재 테두리 격자 개수가 주어진 brown의 개수와 같은 경우
-    if (border === brown) return [width + 2, height + 2];
+  // 전체 카펫 넓이 = 갈색 격자 수 + 노랑 격자 수 
+  const area = brown + yellow
+  
+  // 정수 길이 탐색
+  for (let i = 1; i <= Math.sqrt(area); i++) {
+      // 가로, 세로
+      const width = area / i;
+      const height = i;
+      
+      // 갈색 격자 수 = 2 * (width + height) - 4
+      if (brown !== 2 * (width + height) - 4) {
+          continue;
+      }
+      // 노랑 격자 수 = (width - 2) * (height - 2)
+      if (yellow !== (width - 2) * (height - 2)) {
+          continue;
+      }
+      // 조건에 맞는 경우
+      answer.push(width);
+      answer.push(height);
+      break;
   }
+
+  return answer;
 }
