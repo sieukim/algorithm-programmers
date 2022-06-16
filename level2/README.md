@@ -190,7 +190,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42839">소수 찾기 </a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex19.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex19.py">📎️</a></td>
             <td>완전탐색</td>
         </tr>
         <tr>
