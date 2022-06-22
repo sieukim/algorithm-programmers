@@ -1,46 +1,31 @@
 function solution(skillOrder, skillTrees) {
-  // 주어진 스킬 트리가 스킬 순서를 만족하는지 확인하는 함수
-  function checkOrder(skillTree) {
-    // 스킬 순서 객체
-    const order = {};
-
-    // 스킬 순서 객체 초기화
-    for (let i = 0; i < skillOrder.length; i++) {
-      const skill = skillOrder[i];
-      order[skill] = {
-        order: i,
-        visited: false,
+  let answer = 0;
+  
+  // 문자열 => 배열
+  skillOrder = skillOrder.split('');
+  
+  for (const skillTree of skillTrees) {
+      // 스킬 위치
+      const index = skillOrder.map(value => skillTree.indexOf(value))
+                              .map(value => value === -1 ? 26 : value);
+      
+      // 가능 여부
+      let possible = true;
+      
+      // 순서 확인 
+      for (let i = 0; i < index.length; i++) {
+          // 잘못된 순서인 경우
+          if (index[i] > index[i + 1]) {
+              possible = false;
+              break;
+          }
       }
-    }
 
-    // 현재 순서
-    let orderIndex = 0;
-
-    for (let i = 0; i < skillTree.length; i++) {
-      const skill = skillTree[i];
-
-      // 스킬 순서를 지켜야하는 스킬인 경우
-      if (order[skill]) {
-        // 스킬 순서를 지킨 경우
-        if (order[skill]['order'] === orderIndex) {
-          order[skill]['visited'] = true;
-          orderIndex++;
-        }
-        // 스킬 순서를 못 지킨 경우
-        else {
-          return false;
-        }
+      // 가능한 순서인 경우
+      if (possible) {
+          answer++;
       }
-    }
-
-    return true;
   }
-
-  let count = 0;
-
-  skillTrees.forEach(skillTree => {
-    if (checkOrder(skillTree)) count++;
-  });
-
-  return count;
+  
+  return answer;
 }
