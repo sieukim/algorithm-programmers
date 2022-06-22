@@ -154,7 +154,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/49993">스킬 트리</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex39.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex39.py">📎️️</a></td>
             <td>Summer/Winter Coding (~2018)</td>
         </tr>
         <tr>
