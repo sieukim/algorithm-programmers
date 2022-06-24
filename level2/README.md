@@ -136,7 +136,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/49994">방문 길이</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex30.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex30.py">📎️</a></td>
             <td>Summer/Winter Coding (~2018)</td>
         </tr>
         <tr>
