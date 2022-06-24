@@ -1,39 +1,28 @@
 function solution(dirs) {
-  // 이동 방향 집합
-  const directions = dirs.split('');
+  // 현재 좌표
+  let [x, y] = [0, 0];
+  // 이동 경로 set
+  const routes = new Set();
+  // (x좌표 이동량, y좌표 이동량)
+  const moves = {'U': [0, 1], 'D': [0, -1], 'R': [1, 0], 'L': [-1, 0]};
+  
+  for (const value of dirs) {
+      // 이동량
+      const move = moves[value];
+      // 다음 좌표
+      const [nx, ny] = [x + move[0], y + move[1]];
 
-  // 경로 집합
-  const routes = [];
-
-  // 이전 좌표
-  const prevPoint = {x: 0, y: 0};
-  // 다음 좌표
-  const nextPoint = {x: 0, y: 0};
-
-  directions.forEach(direction => {
-    let moved = false;
-
-    // 명령에 따른 좌표 이동
-    if (prevPoint.y < 5 && direction == 'U') nextPoint.y = prevPoint.y + 1;
-    if (prevPoint.y > -5 && direction == 'D') nextPoint.y = prevPoint.y - 1;
-    if (prevPoint.x < 5 && direction == 'R') nextPoint.x = prevPoint.x + 1;
-    if (prevPoint.x > -5 && direction == 'L') nextPoint.x = prevPoint.x - 1;
-
-    // 좌표 이동을 한 경우
-    if (prevPoint.x !== nextPoint.x || prevPoint.y !== nextPoint.y) {
-      // 이동할 때 지나가는 경로
-      const passed = {x: (prevPoint.x + nextPoint.x) / 2, y: (prevPoint.y + nextPoint.y) / 2};
-
-      // 처음 간 경로인 경우
-      if (routes.every(route => route.x !== passed.x || route.y !== passed.y)) {
-        routes.push(passed);
+      // 이동 가능한 경우
+      if (Math.abs(nx) <= 5 && Math.abs(ny) <= 5) {
+          // 순방향 경로 추가
+          routes.add(`${x} ${y} ${nx} ${ny}`);
+          // 역방향 경로 추가
+          routes.add(`${nx} ${ny} ${x} ${y}`);
+          // 좌표 갱신
+          x = nx;
+          y = ny;
       }
-    }
+  }
 
-    // 현재 좌표 갱신
-    prevPoint.x = nextPoint.x;
-    prevPoint.y = nextPoint.y;
-  });
-
-  return routes.length;
+  return routes.size / 2;
 }
