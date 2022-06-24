@@ -130,7 +130,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/84512">모음 사전</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex48.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex48.py">📎️️</a></td>
             <td>위클리 챌린지</td>
         </tr>
         <tr>
