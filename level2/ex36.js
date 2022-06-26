@@ -1,20 +1,12 @@
 function solution(numbers) {
-  // 숫자 -> 문자열 변환
-  numbers = numbers.map(number => number.toString());
-
+  // 정수 => 문자열
+  numbers = numbers.map(number => String(number));
+  
   // 정렬
-  numbers.sort((a, b) => {
-    if (a + b > b + a) {
-      return -1;
-    } else {
-      return 1;
-    }
-  });
-
-  // 00...0인 경우
-  if (numbers[0] === '0') {
-    return '0';
-  }
-
-  return numbers.join('');
+  numbers.sort((prev, curr) => (curr + prev) - (prev + curr));
+  
+  // 리스트 => 문자열
+  numbers = String(BigInt(numbers.join('')));
+  
+  return numbers;
 }
