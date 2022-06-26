@@ -166,7 +166,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12985">예상 대진표</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex42.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex42.py">📎️</a></td>
             <td>2017 팁스타운</td>
         </tr>
         <tr>
