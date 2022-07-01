@@ -118,7 +118,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/87390">n^2 배열 자르기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex33.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex33.js">📎️️</a></td>
             <td>월간 코드 챌린지3</td>
         </tr>
         <tr>
