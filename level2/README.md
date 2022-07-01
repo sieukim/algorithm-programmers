@@ -238,7 +238,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42583">다리를 지나는 트럭</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex41.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex41.py">📎️️</a></td>
             <td>스택/큐</td>
         </tr>
         <tr>
