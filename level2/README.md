@@ -178,7 +178,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42885">구명 보트</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex44.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex44.py">📎️️</a></td>
             <td>그리디</td>
         </tr>
         <tr>
