@@ -124,7 +124,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/87946">피로도</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex47.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex47.js">📎️️</a></td>
             <td>위클리 챌린지</td>
         </tr>
         <tr>
