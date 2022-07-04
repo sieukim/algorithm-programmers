@@ -1,23 +1,28 @@
+// 파일명 split 함수
+function split(file) {
+  const head = file.match(/[A-Z \.\-]+/)[0];
+  const number = file.match(/[0-9]+/)[0];
+  return [head, number];
+}
+
+// 정렬 비교 함수 
+function comparator(x, y) {
+  if (x[0][0] > y[0][0]) {
+      return 1;
+  } else if (x[0][0] < y[0][0]) {
+      return -1;
+  } else {
+      return x[0][1] - y[0][1];
+  }
+}
+
 function solution(files) {
-  const arr = [];
+  // 매핑 
+  const new_files = files.map((file, i) => [split(file.toUpperCase()), i]);
+  // 정렬
+  new_files.sort((x, y) => comparator(x, y));
+  // 매핑
+  const answer = new_files.map(file => files[file[1]]);
 
-  const headRegex = /[a-zA-Z\-\.\s]+/;
-  const numberRegex = /[0-9]+/;
-
-  // number 파싱
-  files.forEach(file => {
-    const head = headRegex.exec(file)[0].toLowerCase();
-    const number = parseInt(numberRegex.exec(file)[0]);
-    arr.push([file, head, number])
-  });
-
-  arr.sort((a, b) => {
-    // head 사전식 정렬
-    if (a[1] > b[1]) return 1;
-    else if (a[1] < b[1]) return -1;
-    // number 오름차순 정렬
-    else return a[2] - b[2];
-  });
-
-  return arr.map(file => file[0]);
+  return answer;
 }
