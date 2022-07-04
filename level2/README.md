@@ -34,7 +34,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/60058">괄호 변환</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex46.js">📎️️</a></td>
-            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex46.js">📎️️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex46.py">📎️️</a></td>
             <td>카카오 2020 채용</td>
         </tr>
         <tr>
@@ -76,7 +76,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/17686">파일명 정렬</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex17.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex17.py">📎️️</a></td>
             <td>카카오 2018 채용 3차</td>
         </tr>
         <tr>
