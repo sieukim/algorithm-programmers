@@ -250,7 +250,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12899">124 나라의 숫자</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex28.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex28.py">📎️</a></td>
             <td>연습문제</td>
         </tr>  
         <tr>
