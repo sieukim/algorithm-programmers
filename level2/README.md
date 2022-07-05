@@ -28,7 +28,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/81302">거리두기 확인하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex43.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex43.py">📎️️</a></td>
             <td>카카오 2021 인턴십</td>
         </tr>
         <tr>
