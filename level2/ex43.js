@@ -1,76 +1,71 @@
+// 지원자 위치 반환 함수
+function getIndex(place, n=5) {
+  const index = [];
+  
+  for (let i = 0; i < n; i++) {
+      for (let j = 0; j < n; j++) {
+          if (place[i][j] === 'P') {
+              index.push([i, j]);
+          }
+      }
+  }
+  
+  return index;
+}
+
+// 두 사람 간의 거리두기 지킴 여부 확인 함수
+function check(place, index1, index2) {
+  // 맨해튼 거리 확인
+  let [r1, c1] = index1;
+  let [r2, c2] = index2;
+  
+  const distance = Math.abs(r1 - r2) + Math.abs(c1 - c2);
+  
+  if (distance > 2) {
+      return true;
+  }
+  if (distance === 1) {
+      return false;
+  }
+  
+  // 파티션 여부 확인
+  r1 = Math.min(index1[0], index2[0])
+  r2 = Math.max(index1[0], index2[0])
+  c1 = Math.min(index1[1], index2[1])
+  c2 = Math.max(index1[1], index2[1])
+  
+  for (let i = r1; i <= r2; i++) {
+      for (let j = c1; j <= c2; j++) {
+          if (place[i][j] === 'O') {
+              return false;
+          }
+      }
+  }
+  
+  return true;
+}
+
+// 거리두기 지킴 여부 확인 함수 
+function check_all(place) {
+  const index = getIndex(place);
+  
+  for (let i = 0; i < index.length; i++) {
+      for (let j = i + 1; j < index.length; j++) {
+          if (!check(place, index[i], index[j])) {
+              return 0;
+          }
+      }
+  }
+  
+  return 1;
+}
+
 function solution(places) {
-  // 맨허튼 거리 측정 함수
-  function getDistance(a, b) {
-    return Math.abs(a.row - b.row) + Math.abs(a.column - b.column);
-  }
-
-  // 응시자 좌표(행, 열) 배열 반환하는 함수
-  function getApplicants(place, rows = 5, columns = 5) {
-    const arr = [];
-
-    for (let i = 0; i < rows; i++) {
-      for (let j = 0; j < columns; j++) {
-        if (place[i][j] === 'P') {
-          arr.push({
-            row: i,
-            column: j,
-          });
-        }
-      }
-    }
-
-    return arr;
-  }
-
-  // 응시자 좌표 배열을 이용하여 거리두기 현황을 반환하는 함수
-  function check(place, applicants, rows = 5, columns = 5) {
-    // 응시자 수
-    const n = applicants.length;
-
-    for (let i = 0; i < n; i++) {
-      for (let j = i + 1; j < n; j++) {
-        // 맨허튼 거리
-        const distance = getDistance(applicants[i], applicants[j]);
-        // 맨허튼 거리가 2보다 큰 경우 => 거리 두기 무조건 지킨 경우
-        if (distance > 2) continue;
-
-        // 맨허튼 거리가 2인 경우
-        if (distance === 2) {
-          // 지원자 좌표 정보
-          const {row: row1, column: column1} = applicants[i];
-          const {row: row2, column: column2} = applicants[j];
-
-          // 두 지원자가 같은 행 또는 열에 위치한 경우
-          if (row1 === row2 || column1 === column2) {
-            // 두 지원자 사이 좌표
-            const row = (row1 + row2) / 2;
-            const column = (column1 + column2) / 2;
-
-            // 벽이 없는 경우 => 거리 두기 못 지킨 경우
-            if (place[row][column] === 'O') return false;
-          }
-          // 두 지원자가 다른 행, 열에 존재하는 경우
-          else {
-            // 벽이 없는 경우 => 거리 두기 못 지킨 경우
-            if (place[row1][column2] === 'O') return false;
-            if (place[row2][column1] === 'O') return false;
-          }
-        }
-
-        // 맨허튼 거리가 1인 경우 => 거리 두기 무조건 못 지킨 경우
-        if (distance === 1) return false;
-      }
-    }
-
-    return true;
-  }
-
   const answer = [];
-
-  places.forEach(place => {
-    const applicants = getApplicants(place);
-    check(place, applicants) ? answer.push(1) : answer.push(0);
-  });
-
+  
+  for (let place of places) {
+      answer.push(check_all(place));
+  }
+  
   return answer;
 }
