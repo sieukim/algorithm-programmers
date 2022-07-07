@@ -94,7 +94,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/70129">이진 변환 반복하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex16.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex16.py">📎️️</a></td>
             <td>월간 코드 챌린지1</td>
         </tr>
         <tr>
