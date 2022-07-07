@@ -106,7 +106,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/76502">괄호 회전하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex31.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex31.js">📎️</a></td>
             <td>월간 코드 챌린지2</td>
         </tr>
         <tr>
