@@ -303,7 +303,7 @@
         </tr>
         <tr>
             <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12900">2 x n 타일링</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex50.js">📎️️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex50.py">📎️️</a></td>
             <td>연습문제</td>
         </tr>
