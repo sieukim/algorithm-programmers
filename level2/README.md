@@ -88,7 +88,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/17683">방금 그 곡</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex40.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex40.py">📎️️</a></td>
             <td>카카오 2018 채용 3차</td>
         </tr>
         <tr>
