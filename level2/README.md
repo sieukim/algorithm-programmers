@@ -331,5 +331,11 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex54.py">📎️️</a></td>
             <td>연습문제</td>
         </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12980">점프와 순간 이동</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex55.js">📎️️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex55.py">📎️️</a></td>
+            <td>연습문제</td>
+        </tr>
     </table>
 </div>
