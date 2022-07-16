@@ -104,6 +104,12 @@
             <td>월간 코드 챌린지1</td>
         </tr>
         <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/68645">삼각 달팽이</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex57.js">📎️️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex57.py">📎️️</a></td>
+            <td>월간 코드 챌린지1</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/76502">괄호 회전하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex31.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex31.js">📎️</a></td>
