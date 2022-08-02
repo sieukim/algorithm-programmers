@@ -43,5 +43,11 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex06.py">📎️️</a></td>
             <td>연습 문제</td>
         </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12938">최고의 집합/</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex07.js">📎️️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex07.py">📎️️</a></td>
+            <td>연습 문제</td>
+        </tr>
     </table>
 </div>
