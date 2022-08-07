@@ -14,6 +14,12 @@
             <td>그래프</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42626">더 맵게</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex09.js">📎️️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex09.py">📎️️</a></td>
+            <td>힙</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42579">베스트앨범</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex02.js">📎️️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex02.py">📎️️</a></td>
