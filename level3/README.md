@@ -15,7 +15,7 @@
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42626">더 맵게</a></td>
-            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex09.js">📎️️</a></td>
+            <td>채점 서비스 제공 x</td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex09.py">📎️️</a></td>
             <td>힙</td>
         </tr>
