@@ -182,6 +182,12 @@
             <td>깊이/너비 우선 탐색</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/1844">게임 맵 최단거리</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex58.js">📎️️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex58.py">📎️️</a></td>
+            <td>깊이/너비 우선 탐색</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42885">구명 보트</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex44.js">📎️️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex44.py">📎️️</a></td>
