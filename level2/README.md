@@ -194,6 +194,12 @@
             <td>그리디</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42883">큰 수 만들기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex59.js">📎️️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex59.py">📎️️</a></td>
+            <td>그리디</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42842">카펫</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex18.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex18.py">📎️</a></td>
