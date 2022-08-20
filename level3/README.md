@@ -50,6 +50,12 @@
             <td>Summer/Winter Coding(~2018)</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12971">스티커 모으기(2)</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex11.js">📎️️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex11.py">📎️️</a></td>
+            <td>Summer/Winter Coding(~2018)</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12904">가장 긴 팰린드롬</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex06.js">📎️️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex06.py">📎️️</a></td>
