@@ -56,6 +56,12 @@
             <td>Summer/Winter Coding(~2018)</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/77486">다단계 칫솔 판매</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex12.js">📎️️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex12.py">📎️️</a></td>
+            <td>2021 Dev-Matching: 웹 백엔드 개발자(상반기)</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12904">가장 긴 팰린드롬</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex06.js">📎️️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex06.py">📎️️</a></td>
