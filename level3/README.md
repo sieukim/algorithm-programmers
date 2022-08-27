@@ -8,6 +8,12 @@
             <td>분류</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/64064">불량 사용자</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex13.js">📎️️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex13.py">📎️️</a></td>
+            <td>2019 카카오 개발자 겨울 인턴십</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/49189">가장 먼 노드</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex01.js">📎️️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex01.py">📎️️</a></td>
