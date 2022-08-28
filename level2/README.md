@@ -92,6 +92,12 @@
             <td>카카오 2018 채용 3차</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/77485">행렬 테두리 회전하기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex61.js">📎️️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex61.py">📎️️</a></td>
+            <td>2021 Dev-Matching</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/70129">이진 변환 반복하기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex16.js">📎️️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex16.py">📎️️</a></td>
