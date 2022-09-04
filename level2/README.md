@@ -44,6 +44,12 @@
             <td>카카오 2020 채용</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/67257">수식 최대화</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex62.js">📎️️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex62.py">📎️️</a></td>
+            <td>카카오 2020 인턴십</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42888">오픈채팅방</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex13.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex13.py">📎️</a></td>
