@@ -152,6 +152,12 @@
             <td>위클리 챌린지</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/87377">교점에 별 만들기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex63.js">📎️️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex63.py">📎️️</a></td>
+            <td>위클리 챌린지</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/49994">방문 길이</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex30.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex30.py">📎️</a></td>
