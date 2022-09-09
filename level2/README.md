@@ -74,6 +74,12 @@
             <td>카카오 2018 채용 1차</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/17679">프렌즈 4블록</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex64.js">📎️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex64.py">📎️</a></td>
+            <td>카카오 2018 채용 1차</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/17687">n진수 게임</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex27.js">📎️️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex27.py">📎️️</a></td>
