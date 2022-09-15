@@ -8,6 +8,12 @@
             <td>분류</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/118667">두 큐 합 같게 만들기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex65.js">📎️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex65.py">📎️</a></td>
+            <td>카카오 2022 인턴</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/92341">주차 요금 계산</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex21.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex21.py">📎️</a></td>
