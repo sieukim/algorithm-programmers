@@ -14,6 +14,12 @@
             <td>카카오 2022 인턴</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/92342">양궁 대회</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex66.js">📎️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex66.py">📎️</a></td>
+            <td>카카오 2022 인턴</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/92341">주차 요금 계산</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex21.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex21.py">📎️</a></td>
