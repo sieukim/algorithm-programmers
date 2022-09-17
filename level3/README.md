@@ -14,6 +14,12 @@
             <td>2022 카카오 인턴십</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/60059">자물쇠와 열쇠</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex16.js"></a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex16.py">📎️️</a></td>
+            <td>2020 카카오 채용</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/64064">불량 사용자</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex13.js">📎️️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex13.py">📎️️</a></td>
