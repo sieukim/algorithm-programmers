@@ -1,50 +1,36 @@
 def solution(s):
-    # 주어진 문자열을 n개 단위로 잘라 생성한 토큰 정보를 반환하는 함수 
-    def get_tokens(s, n):
-        # n개 단위로 잘라 생성한 토큰 정보를 담는 리스트
-        tokens = [s[i:i+n] for i in range(0, len(s), n)]
-        return tokens
+    # 주어진 문자열을 k개 단위로 잘라 리스트를 반환하는 함수
+    def split(src, k):
+        return [src[i:i+k] for i in range(0, len(src), k)]
     
-    # 주어진 토큰 리스트를 압축한 결과를 문자열로 반환하는 함수
-    def get_result(tokens):
-        # 압축 결과
-        result = ''
+    # 주어진 리스트를 압축하여 문자열을 반환하는 함수
+    def compress(src):
+        dest = ''
+        count = 1
         
-        # 토큰 연속 횟수
-        count = 0
-        # 이전 토큰 정보
-        before = tokens[0]
-        
-        for now in tokens:
+        for i in range(len(src)):
             # 연속하는 경우
-            if before == now:
-                # 연속 횟수 증가
+            if i < len(src)-1 and src[i] == src[i+1]:
                 count += 1
+            # 연속이 끝난 경우
+            elif count > 1:
+                dest += str(count) + src[i]
+                count = 1
             # 연속하지 않는 경우
             else:
-                # 압축 결과 업데이트 
-                result += str(count if count > 1 else '') + before
-                # 연속 횟수 초기화
-                count = 1
-                # 이전 토큰 정보 초기화
-                before = now
+                dest += src[i]
         
-        # 압축 결과 업데이트
-        result += str(count if count > 1 else '') + before
+        return dest 
+    
+    # 문자열 길이 
+    n = len(s)
+    # 압축하여 표현한 문자열 중 가장 짧은 것의 길이
+    answer = n
+    
+    for i in range(1, n+1):
+        splitted = split(s, i)
+        compressed = compress(splitted)
+        answer = min(answer, len(compressed))
         
-        return result
-    
-    # 압축 결과 리스트
-    results = []
-    
-    for i in range(1, len(s) + 1):
-        # 주어진 문자열 s를 i개 단위로 잘라 생성한 토큰 정보 리스트
-        tokens = get_tokens(s, i)
-        # 토큰 정보 리스트 압축 결과 문자열
-        result = get_result(tokens)
-        # 문자열 길이를 압축 결과 리스트에 추가
-        results.append(len(result))
-    
-    # 가장 짧은 압축 결과 길이를 반환
-    return min(results)
+    return answer
     
