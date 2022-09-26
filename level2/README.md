@@ -130,7 +130,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/68936">쿼드압축 후 개수 세기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex35.js">📎️️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex35.py">📎️️</a></td>
             <td>월간 코드 챌린지1</td>
         </tr>
         <tr>
