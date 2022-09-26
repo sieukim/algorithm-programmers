@@ -148,7 +148,7 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/77885">2개 이하로 다른 비트</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex34.js">📎️</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex34.py">📎️</a></td>
             <td>월간 코드 챌린지2</td>
         </tr>
         <tr>
