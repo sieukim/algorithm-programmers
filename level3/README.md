@@ -57,7 +57,7 @@
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42895">N으로 표현</a></td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex04.js">📎️️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex04.py">📎️️</a></td>
             <td>DP</td>
         </tr>
