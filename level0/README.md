@@ -49,5 +49,11 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex07.py">📎️</a></td>
             <td>코딩 테스트 입문</td>
         </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/120907">OX 퀴즈</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex08.js"></a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex08.py">📎️</a></td>
+            <td>코딩 테스트 입문</td>
+        </tr>
     </table>
 </div>
