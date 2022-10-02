@@ -187,5 +187,11 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex30.py">📎️</a></td>
             <td>코딩 테스트 입문</td>
         </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/120876">겹치는 선분의 길이</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex31.js"></a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex31.py">📎️</a></td>
+            <td>코딩 테스트 입문</td>
+        </tr>
     </table>
 </div>
