@@ -79,5 +79,11 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex12.py">📎️</a></td>
             <td>코딩 테스트 입문</td>
         </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/120864">숨어있는 숫자의 덧셈(2)</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex13.js"></a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex13.py">📎️</a></td>
+            <td>코딩 테스트 입문</td>
+        </tr>
     </table>
 </div>
