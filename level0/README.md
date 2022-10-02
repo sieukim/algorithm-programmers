@@ -127,5 +127,11 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex20.py">📎️</a></td>
             <td>코딩 테스트 입문</td>
         </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/120880">특이한 정렬</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex21.js"></a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex21.py">📎️</a></td>
+            <td>코딩 테스트 입문</td>
+        </tr>
     </table>
 </div>
