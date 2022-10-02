@@ -115,5 +115,11 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex18.py">📎️</a></td>
             <td>코딩 테스트 입문</td>
         </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/120896">한 번만 등장한 문자</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex19.js"></a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex19.py">📎️</a></td>
+            <td>코딩 테스트 입문</td>
+        </tr>
     </table>
 </div>
