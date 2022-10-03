@@ -229,5 +229,11 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex37.py">📎️</a></td>
             <td>코딩 테스트 입문</td>
         </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/120890">가까운 수</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex38.js"></a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex38.py">📎️</a></td>
+            <td>코딩 테스트 입문</td>
+        </tr>
     </table>
 </div>
