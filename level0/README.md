@@ -259,5 +259,11 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex42.py">📎️</a></td>
             <td>코딩 테스트 입문</td>
         </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/120851">숨어있는 숫자의 덧셈</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex43.js"></a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex43.py">📎️</a></td>
+            <td>코딩 테스트 입문</td>
+        </tr>
     </table>
 </div>
