@@ -301,5 +301,11 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex49.py">📎️</a></td>
             <td>코딩 테스트 입문</td>
         </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/120834">외계 행성의 나이</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex50.js"></a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex50.py">📎️</a></td>
+            <td>코딩 테스트 입문</td>
+        </tr>
     </table>
 </div>
