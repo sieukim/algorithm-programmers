@@ -283,5 +283,11 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex46.py">📎️</a></td>
             <td>코딩 테스트 입문</td>
         </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/120895">개미 군단</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex47.js"></a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level0/ex47.py">📎️</a></td>
+            <td>코딩 테스트 입문</td>
+        </tr>
     </table>
 </div>
