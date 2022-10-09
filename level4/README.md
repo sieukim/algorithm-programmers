@@ -20,6 +20,12 @@
             <td>2020 카카오 채용</td>
         </tr>
         <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17685">자동 완성</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level4/ex04.js"></a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level4/ex04.py">📎️</a></td>
+            <td>2018 카카오 채용</td>
+        </tr>
+        <tr>
             <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12929">올바른 괄호의 개수</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level4/ex01.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level4/ex01.py">📎️</a></td>
