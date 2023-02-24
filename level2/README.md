@@ -402,6 +402,12 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex56.js">📎️️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex56.py">📎️️</a></td>
             <td>연습문제</td>
+        </tr>        
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/152996">시소 짝꿍</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex67.js">️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex67.py">📎️</a></td>
+            <td>연습문제</td>
         </tr>
     </table>
 </div>
