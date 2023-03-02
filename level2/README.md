@@ -318,6 +318,12 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex28.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex28.py">📎️</a></td>
             <td>연습문제</td>
+        </tr>          
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12952">N-Queen</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex69.js">📎</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex69.py">📎️</a></td>
+            <td>연습문제</td>
         </tr>  
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12941">최솟값 만들기</a></td>
