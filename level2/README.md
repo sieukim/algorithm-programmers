@@ -14,6 +14,12 @@
             <td>카카오 2023 채용</td>
         </tr>        
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/150369">택배 배달과 수거하기</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex70.js"></a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex70.py">📎️</a></td>
+            <td>카카오 2023 채용</td>
+        </tr>        
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/118667">두 큐 합 같게 만들기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex65.js">📎️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex65.py">📎️</a></td>
