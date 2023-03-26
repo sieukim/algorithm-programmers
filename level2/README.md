@@ -166,13 +166,19 @@
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/87390">n^2 배열 자르기</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex33.js">📎️️</a></td>
-            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex33.js">📎️️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex33.py">📎️️</a></td>
+            <td>월간 코드 챌린지3</td>
+        </tr>
+        <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/86052">빛의 경로 사이클</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex74.js"></a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex74.py">📎️️</a></td>
             <td>월간 코드 챌린지3</td>
         </tr>
         <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/87946">피로도</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex47.js">📎️️</a></td>
-            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex47.js">📎️️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex47.py">📎️️</a></td>
             <td>위클리 챌린지</td>
         </tr>
         <tr>
