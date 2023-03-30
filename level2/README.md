@@ -463,5 +463,11 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex76.py">📎️</a></td>
             <td>연습문제</td>
         </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131127">할인행사</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex77.js">️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex77.py">📎️</a></td>
+            <td>연습문제</td>
+        </tr>
     </table>
 </div>
