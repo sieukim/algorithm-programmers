@@ -529,5 +529,11 @@
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex87.py">📎️</a></td>
             <td>연습문제</td>
         </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131701">연속 부분 수열 합의 개수</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex88.js">️</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level2/ex88.py">📎️</a></td>
+            <td>연습문제</td>
+        </tr>
     </table>
 </div>
