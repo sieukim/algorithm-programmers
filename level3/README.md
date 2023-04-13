@@ -62,6 +62,12 @@
             <td>깊이/너비 우선 탐색</td>
         </tr>
         <tr>
+            <td><a href="https://programmers.co.kr/learn/courses/30/lessons/43162">네트워크</a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex23.js"></a></td>
+            <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex23.py">📎️️</a></td>
+            <td>깊이/너비 우선 탐색</td>
+        </tr>
+        <tr>
             <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42579">베스트앨범</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex02.js">📎️️</a></td>
             <td><a href="https://github.com/sieukim/algorithm-programmers/blob/master/level3/ex02.py">📎️️</a></td>
